@@ -1,6 +1,9 @@
 # GraphCIM
 This is the official repository of paper **Inference of cell interactions and mapping of communication for single-cell spatial transcriptomes with GraphCIM**.
 
+## All experimental data can be obtained from the following link
+https://drive.google.com/drive/folders/19l6LqJ5tuVXYYG1-JtBb4plkkdvEoS5B?usp=sharing
+
 ## System requirements
 ### Operating system
 The software has been tested on the Ubuntu Linux 20.04 system.
